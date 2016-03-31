@@ -1,0 +1,33 @@
+*{margin:0px;padding:0px;}
+body{font-family:"Arial","Microsoft Yahei","simsun"; color:#000; font-size:1em;}
+img{border:none; vertical-align: top;}
+ul{list-style:none;}
+a{text-decoration:none; color:#323232;}
+a:focus{outline: none;}
+
+@font-face {
+    font-family:"MSYHL";
+    src: url("MSYHL.eot?#iefix") format("embedded-opentype"),
+         url("MSYHL.TTC") format("truetype");
+}
+
+.aboutDiv{background-color: #f5f5f5;}
+.about_banner{margin-bottom: 5px;}
+.about_banner img{width: 100%;}
+.aboutText{padding: 0 10px; line-height: 22px; color: #444;}
+.aboutText2{padding: 0 10px; color: #444; line-height: 22px;}
+.aboutText2 h2{font-size: 1.1em; margin: 10px 0; color: #000;}
+.aboutText2 ul li{width: 25%; float: left; text-align: center; margin: 10px 0;}
+.aboutText2 ul li img{width: 80%;}
+.aboutText2 ul li p{font-size: 0.9em; margin-top: 5px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+.aboutText2 h3{background: url("../images/black_heart.jpg") no-repeat left center /20px; font-size: 1.0em; padding-left: 25px; margin: 20px 0 10px 0; color: #000;}
+
+
+
+.clear{clear:both; height:0; overflow:hidden;}
+.fl{float:left;}
+.fr{float:right;}
+
+.bgWhite{background-color:rgba(255,255,255,0.2); border:1px solid rgba(255,255,255,0.25);}
+.borWhite{border-bottom:1px solid rgba(255,255,255,0.51);box-shadow:0px 2px 0px rgba(0,0,0,0.1)}
+
